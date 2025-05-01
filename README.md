@@ -127,26 +127,6 @@ audio = generate_audio(disfluent_text)
 sf.write("disfluent_speech.wav", audio, SAMPLE_RATE)
 ```
 
-## Results
-
-Our evaluation showed:
-- The fine-tuned LLM achieved a BLEU score of 0.5524 and a BERTScore F1 of 0.9327
-- User studies indicated that disfluent speech was perceived as significantly more spontaneous
-- The spontaneity improvement outweighed the slight decrease in intelligibility
-
-## Citation
-
-If you use this code or the models for your research, please cite our paper:
-
-```bibtex
-@article{hassan2025enhancing,
-  title={Enhancing Naturalness in LLM-Generated Utterances through Disfluency Insertion},
-  author={Hassan, Syed Zohaib and Lison, Pierre and Halvorsen, Pål},
-  journal={arXiv preprint},
-  year={2025}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
