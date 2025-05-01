@@ -25,8 +25,6 @@ Our user studies show that this approach significantly increases the perceived s
 ├── data/                # Directory for datasets
 │   ├── train.csv        # Training data
 │   └── test.csv         # Test data
-├── examples/            # Example inputs and outputs
-└── results/             # Directory for saving model checkpoints and results
 ```
 
 ## Installation
