@@ -1,0 +1,16 @@
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+peft>=0.4.0
+trl>=0.4.7
+wandb>=0.15.0
+bitsandbytes>=0.39.0
+accelerate>=0.20.0
+pandas>=1.5.0
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.0.0
+bert-score>=0.3.13
+evaluate>=0.4.0
+tqdm>=4.65.0
+safetensors>=0.3.1
