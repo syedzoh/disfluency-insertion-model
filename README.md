@@ -145,7 +145,7 @@ Our aim is to enhance human-computer interaction, not to deceive or manipulate u
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License 
 
 ## Acknowledgements
 
