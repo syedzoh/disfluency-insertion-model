@@ -127,6 +127,22 @@ audio = generate_audio(disfluent_text)
 sf.write("disfluent_speech.wav", audio, SAMPLE_RATE)
 ```
 
+## Ethical Guidelines
+
+To promote responsible use of this technology, please adhere to the following guidelines:
+
+1. **Transparency**: Always clearly disclose when disfluent speech is AI-generated. Users interacting with systems using this technology must be informed they are not communicating with a human.
+
+2. **Bias Monitoring**: Implement mechanisms to monitor and mitigate potential biases in disfluency patterns across different demographic groups, especially for speech disorders, neurodivergent individuals, non-native speakers, and minorities.
+
+3. **Context Restrictions**: Do not deploy this technology in high-stakes contexts like legal proceedings, job interviews, or medical consultations without appropriate human oversight and explicit disclosure.
+
+4. **Documentation**: Document potential limitations and ethical considerations in any derivative applications or research using this code.
+
+5. **Avoid Deception**: Do not use disfluency insertion to manipulate perceptions of a speaker's credibility, emotional state, or cognitive abilities.
+
+Our aim is to enhance human-computer interaction, not to deceive or manipulate users into believing they are interacting with humans when they are not.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
